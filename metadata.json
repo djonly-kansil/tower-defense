@@ -1,0 +1,5 @@
+{
+  "name": "Tower Defense",
+  "description": "A 2D top-down tower defense game with APK build via GitHub Actions.",
+  "requestFramePermissions": []
+}
